@@ -6,3 +6,5 @@
 测试一个branch分支
 & and and log and branch
 修改合并数据 add branch
+test of stash...
+回到了dev分支以后，再进行修改
